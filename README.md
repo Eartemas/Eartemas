@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eartemas
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning how to programming using C
+- 🌱 I’m currently learning how to program using C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
